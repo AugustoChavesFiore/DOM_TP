@@ -9,23 +9,23 @@ const $cards =document.querySelector(".cards"),
     {
       imagen:"img/python.png",
       titulo: "Python",
-      informacion:"Lenguaje de programación para desarrollo web."},
+      informacion:"Lenguaje de programación multipropósito y fácil de aprender."},
     {
       imagen:"img/php.png",
       titulo: "PHP",
-      informacion:"Lenguaje de programación para desarrollo web."},
+      informacion:"Lenguaje de programación para desarrollo web del lado del servidor."},
     {
       imagen:"img/java.png",
       titulo: "Java",
-      informacion:"Lenguaje de programación para desarrollo web."},
+      informacion:"Lenguaje de programación orientado a objetos y de propósito general."},
       {
         imagen:"img/csharp.png",
         titulo: "C#",
-        informacion:"Lenguaje de programación para desarrollo web."},
+        informacion:"Lenguaje de programación orientado a objetos para desarrollo de aplicaciones .NET."},
       {
         imagen:"img/csharp.png",
         titulo: "C#",
-        informacion:"Lenguaje de programación para desarrollo web."},
+        informacion:"Lenguaje de programación orientado a objetos para desarrollo de aplicaciones .NET."},
     ];
 
 
