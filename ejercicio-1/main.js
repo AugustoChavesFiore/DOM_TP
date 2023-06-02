@@ -3,12 +3,12 @@ const text= document.getElementById('parrafo')
 
 
 boton.addEventListener('click' ,function(){
-    
-    if (parrafo.classList.contains('color')){
-        parrafo.classList.remove('color');
-    }
-    else{
-        parrafo.classList.add('color');
-    }
+    parrafo.classList.toggle('color')
+    // if (parrafo.classList.contains('color')){
+    //     parrafo.classList.remove('color');
+    // }
+    // else{
+    //     parrafo.classList.add('color');
+    // }
 })
 
